@@ -8,11 +8,11 @@
 </div>
 
 
-<!-- <h1 align="center"> 
-  Trybe
+<h1 align="center"> 
+  ACADI-TI
 </h1>
 
-<p align="center"><i>"A Acadi-TI é uma empresa especialista em capacitações e consultoria de TI voltada a empresas de diversos portes e mercados de atuação, bem como a profissionais de TI que buscam desenvolver suas competências."</i></p> -->
+<p align="center"><i>"A Acadi-TI é uma empresa especialista em capacitações e consultoria de TI voltada a empresas de diversos portes e mercados de atuação, bem como a profissionais de TI que buscam desenvolver suas competências."</i></p>
 
 <div align="center">
   <a href="https://github.com/glauberporto">
