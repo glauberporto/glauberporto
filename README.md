@@ -1,7 +1,7 @@
 <div>
-  <h1 align="center">Olá Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/glauberporto/"><i>Glauber Porto</i></a> 😃️</h1>
-  <p align="center">Estudo CyberSegurança na ACADI-TI <a href="https://buzzlead.acaditi.com.br/amigo-indicado?bid=WXOKLMN"><i>Acaditi</i></a> e compartilho meu aprendizado no meu canal no <a href="https://www.youtube.com/channel/UCPGldblyYxm6KPSW0R4tNBw<i>YouTube</i></a><span> 👉🏽️</span>
-  <a align="rigth"  href="https://www.youtube.com/channel/UCPGldblyYxm6KPSW0R4tNBw?sub_confirmation=1" target="_blank">
+  <h1 align="center">Olá Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/glauberporto/"><i>Glauber Porto</i></a> </h1>
+  <p align="center">Estudo CyberSegurança na ACADI-TI <a href="https://buzzlead.acaditi.com.br/amigo-indicado?bid=WXOKLMN"><i>Acaditi</i></a> e compartilho meu aprendizado no meu Linkdin ou no meu <a href="https://cyberdata.netlify.app/"><i>Blog</i> </a>
+  e Canal no Youtube <a align="rigth"  href="https://www.youtube.com/channel/UCPGldblyYxm6KPSW0R4tNBw?sub_confirmation=1" target="_blank">
     <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCPGldblyYxm6KPSW0R4tNBw?label=CyberData&style=social  " target="_blank" />
   </a><br>
   <p align="center">Já se inscreve, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
@@ -32,7 +32,7 @@
 
 <div align="center">
   <a href="https://www.youtube.com/channel/UCPGldblyYxm6KPSW0R4tNBw?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/cyberdata_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/cyber.data_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/glauberporto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:glauberporto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
