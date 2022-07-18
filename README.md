@@ -37,6 +37,10 @@
   <a href="mailto:glauberporto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+### GUIA FOCA LINUX
+
+https://www.guiafoca.org/guiaonline/
+
 
 ### Abrir o seu Projeto online ? 
 
