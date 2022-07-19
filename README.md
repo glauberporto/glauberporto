@@ -41,6 +41,9 @@
 
 https://www.guiafoca.org/guiaonline/
 
+### GERADOR DE ASCII
+
+https://pt.rakko.tools/tools/68/
 
 ### Abrir o seu Projeto online ? 
 
