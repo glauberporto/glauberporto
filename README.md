@@ -55,7 +55,9 @@ https://readthedocs.org/dashboard/
 
 ## National Vulnerability Database
 
-https://nvd.nist.gov/vuln/search/results?form_type=Basic&results_type=overview&query=Windows+Server&search_type=all&isCpeNameSearch=false
+Link: https://nvd.nist.gov/vuln/search
+
+Exemplo de Pesquisa do Windows Server https://nvd.nist.gov/vuln/search/results?form_type=Basic&results_type=overview&query=Windows+Server&search_type=all&isCpeNameSearch=false
 
 ## Indicação de Livros
 
