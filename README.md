@@ -53,6 +53,9 @@ https://gitpod.io/workspaces
 
 https://readthedocs.org/dashboard/
 
+## National Vulnerability Database
+
+https://nvd.nist.gov/vuln/search/results?form_type=Basic&results_type=overview&query=Windows+Server&search_type=all&isCpeNameSearch=false
 
 ## Indicação de Livros
 
