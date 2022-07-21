@@ -100,3 +100,16 @@ Exemplo de Pesquisa do Windows Server https://nvd.nist.gov/vuln/search/results?f
 -   [CISO Desk Reference Guide Volume 2: A Practical Guide for CISOs](https://amzn.to/3PcD5ir)
 -   [CISO Desk Reference Guide: A Practical Guide for CISOs (English Edition)](https://amzn.to/3PgawAL)
 -   [Segurança Em Redes Informáticas - 6.ª Edição Atualizada E Aumentada](https://amzn.to/3IHAcDP)
+
+
+Melhores livros de linux 🥇
+
+Programação Shell Linux: Referência Definitiva da Linguagem Shell: https://amzn.to/3ROcZ6W
+
+Linux - A bíblia: o mais abrangente e definitivo guia sobre Linux: https://amzn.to/3Opryep
+
+Guia Completo do Linux e Software Livre: https://amzn.to/3zkEde9
+
+Comandos Linux - 1: https://amzn.to/3B6BOW2
+
+Guia Para Iniciantes Em Hacking de Computadores: Como Hackear Redes Sem Fio, Segurança Básica E Testes De Penetração, Kali Linux, Seu Primeiro Hack: https://amzn.to/3OiERx3
