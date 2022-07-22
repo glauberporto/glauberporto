@@ -61,6 +61,11 @@ Link: https://nvd.nist.gov/vuln/search
 
 Exemplo de Pesquisa do Windows Server https://nvd.nist.gov/vuln/search/results?form_type=Basic&results_type=overview&query=Windows+Server&search_type=all&isCpeNameSearch=false
 
+## Fundamentos de Cloud
+
+https://docs.microsoft.com/pt-br/learn/modules/fundamental-azure-concepts/?WT.mc_id=funfunctionsday-presentation-gllemos
+
+
 ## Indicação de Livros
 
  [O Quinto Dominio: Defendendo Nosso País, Nossas Empresas e Nós Mesmos na Era das Ameaças Cibernéticas](https://amzn.to/3yNgQZt)
