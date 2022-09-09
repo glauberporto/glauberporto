@@ -39,6 +39,10 @@
   
 </div>
 
+#### TESTE de LATENCIA de SERVIÇOS EM NUVENS
+
+https://cloudping.info/
+
 ### GUIA FOCA LINUX
 
 https://www.guiafoca.org/guiaonline/
