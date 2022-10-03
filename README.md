@@ -115,6 +115,20 @@ https://docs.microsoft.com/pt-br/learn/modules/fundamental-azure-concepts/?WT.mc
 -   [Segurança Em Redes Informáticas - 6.ª Edição Atualizada E Aumentada](https://amzn.to/3IHAcDP)
 
 
+01 - 
+https://breachlevelindex.com
+01a - https://haveibeenpwned.com
+02-  https:/shodan.io
+03 - https://securityweekly.com/
+04 - https://securityboulevard.com 
+05 - https://nakedsecurity.sophos.com/
+06 - http://www.digitalattackmap.com/
+07 - https://osintframework.com/
+08 - http://cve.mitre.org
+09 - https://securelist.com/
+10 - https://threatpost.com/
+
+
 ## Melhores livros de linux 🥇
 
 Programação Shell Linux: Referência Definitiva da Linguagem Shell: https://amzn.to/3ROcZ6W
