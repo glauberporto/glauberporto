@@ -1,8 +1,7 @@
 <div>
   <h1 align="center">Olá Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/glauberporto/"><i>Glauber Porto</i></a> </h1>
-  <p align="center">Estudo CyberSegurança na ACADI-TI <a href="https://buzzlead.acaditi.com.br/amigo-indicado?bid=WXOKLMN"><i>Acaditi</i></a> e compartilho meu aprendizado no meu Linkedin </a>
-  e Canal no Youtube <a align="rigth"  href="https://www.youtube.com/@oquinto_dominio" target="_blank">
-    <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCPGldblyYxm6KPSW0R4tNBw?label=oquinto_dominio&style=social  " target="_blank" />
+  <p align="center">Estudo CyberSegurança e compartilho meu aprendizado no meu Linkedin </a>
+      
   </a><br>
   <p align="center">Já se inscreve, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
 </div>
