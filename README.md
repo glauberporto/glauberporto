@@ -3,7 +3,7 @@
   <p align="center">Estudo CyberSegurança e compartilho meu aprendizado no meu Linkedin </a>
       
   </a><br>
-  <p align="center">Já se inscreve, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
+  <p align="center">Seja muito Bem Vindo(a)! 😉️</h2>
 </div>
 
 
